@@ -1,0 +1,2 @@
+language,model,accuracy,precision,recall,f1
+hindi,bert-base-multilingual-cased,0.8666666666666667,0.8626760563380281,0.8566433566433567,0.8596491228070176

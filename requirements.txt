@@ -1,4 +1,9 @@
+numpy
 pandas
 scikit-learn
-numpy
 tqdm
+torch
+transformers
+datasets
+sentencepiece
+pyyaml

@@ -1,0 +1,2 @@
+language,model,accuracy,precision,recall,f1
+Korean,bert-base-multilingual-cased,0.6681715575620768,0.675392670157068,0.602803738317757,0.6370370370370371
