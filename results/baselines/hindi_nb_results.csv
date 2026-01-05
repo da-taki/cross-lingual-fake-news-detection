@@ -1,0 +1,2 @@
+language,model,accuracy,precision,recall,f1
+Hindi,TF-IDF + Naive Bayes,0.795,0.7900355871886121,0.7762237762237763,0.783068783068783

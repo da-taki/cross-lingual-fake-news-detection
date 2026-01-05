@@ -1,0 +1,2 @@
+language,model,accuracy,precision,recall,f1
+Hindi,TF-IDF + Logistic Regression,0.795,0.7921146953405018,0.7727272727272727,0.7823008849557522

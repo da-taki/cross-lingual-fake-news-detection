@@ -1,0 +1,2 @@
+language,model,accuracy,precision,recall,f1
+Korean,TF-IDF + Logistic Regression,0.6410835214446953,0.8571428571428571,0.308411214953271,0.4536082474226804
